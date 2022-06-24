@@ -9,3 +9,5 @@ Blue Cat team and other authors
 ## License
 The icons are released under the GPLv3 license.
 See [LICENSE](LICENSE) for more information.
+
+![Icons](https://vukoz-oel.github.io/3d-forest-documentation/icons.png "Icons")
